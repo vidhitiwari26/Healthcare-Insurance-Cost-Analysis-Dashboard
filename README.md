@@ -17,9 +17,13 @@ To identify which demographic and lifestyle factors — occupation, location, ch
 📄 25,000 applicant records
 🧬 24 fields covering health metrics (BMI, glucose level, cholesterol, heart disease history), lifestyle habits (smoking, alcohol, exercise), and demographics (age, gender, occupation, location)
 🎯 Target variable: insurance_cost
+
+
 🛠️ Tools Used
 📈 Tableau Public — dashboard design & visualization
 🧮 Excel — source data
+
+
 📌 Visualizations Included
 🗺️ Geographic map — average insurance cost by city
 📉 Distribution histogram — spread of insurance cost across all applicants
