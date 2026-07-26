@@ -1,4 +1,4 @@
-Readme · MD
+
 🏥 Healthcare Insurance Cost Analysis Dashboard
 
 An interactive Tableau dashboard analyzing health, lifestyle, and demographic factors that relate to insurance pricing across 25,000 applicants.
@@ -7,7 +7,7 @@ An interactive Tableau dashboard analyzing health, lifestyle, and demographic fa
 
 Insurance companies price policies based on a mix of health indicators and lifestyle habits — but which factors actually move the needle? This project explores that question using a real-world-style dataset of insurance applicants, visualized in Tableau.
 
-🔗 Live Dashboard: [Add your Tableau Public link here]
+
 
 🎯 Objective
 
